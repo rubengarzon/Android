@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">A todo lo ancho</string>
     <string name="Button">Button</string>
+    <string name="pass">Escribe la contraseña</string>
 </resources>

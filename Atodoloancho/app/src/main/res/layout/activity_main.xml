@@ -13,6 +13,8 @@
         android:layout_marginTop="188dp"
         android:ems="10"
         android:inputType="textPassword"
+        android:autofillHints=""
+        android:hint="@string/pass"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
