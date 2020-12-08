@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">proyectohlc</string>
+    <string name="imagen">TODO</string>
+    <string name="nombre">Rubén Garzón Zafra</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="sumar_multiplicar">Sumar y multiplicar</string>
+    <string name="numero_1">Número 1</string>
+    <string name="numero_2">Número 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="tituloMenu">Menu</string>
+    <string name="articulo">Escribe el articulo..</string>
+    <string name="Agregar">Agregar</string>
+    <string name="carrito">Carrito de compra</string>
+    <string name="tienda">Escribe la tienda..</string>
+    <string name="buscar">Buscar</string>
+    <string name="agregar">Añadir producto</string>
+    <string name="elige">Elige una opción</string>
+    <string name="sobre_mi">Sobre mi</string>
+    <string name="lista_compra">Lista compra</string>
+    <string name="sumar_y_multiplicar">Sumar y multiplicar</string>
+    <string name="inicio">Inicio</string>
+    <string name="resultado2">Resultado:</string>
+    <string name="volver_al_menu">Volver al menu</string>
+    <string name="agregar_producto">Añade un producto</string>
+    <string name="ubicacion">Nuestra ubicación</string>
+    <string name="productos">Productos comprados</string>
+    <string name="opinion">Opinión Proyecto</string>
+    <string name="red_social">Red Social</string>
+    <string name="lugar_fav">Lugar favorito</string>
+</resources>
